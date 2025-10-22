@@ -1,0 +1,10 @@
+这两这算法的本质其实是贪心
+
+
+推荐看这个来理解：
+https://www.bilibili.com/video/BV1Eb41177d1/?vd_source=79043f2a8efe4672df69e4818fe876b8
+
+会浅浅用到并查集：
+可以简单看这个：
+https://zhuanlan.zhihu.com/p/93647900
+直接看代码也行

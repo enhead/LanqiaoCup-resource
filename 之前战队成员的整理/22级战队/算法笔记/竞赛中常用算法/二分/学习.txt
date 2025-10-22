@@ -1,0 +1,7 @@
+
+
+建议不要看书上的代码，先去掌握两个模板
+链接：
+https://blog.csdn.net/Mr_dimple/article/details/114656142
+
+二分细节比较多，只能多练多写

@@ -1,0 +1,17 @@
+非常巧妙且优雅的数据结构，代码并不复杂但是有很强的技巧性（唉，这也意味没有那么好懂）
+
+这是一个专精的数据结构，能高效地解决部分问题，被线段数包含
+
+建议先看将下面的这两个视频结合，互相补充：
+
+https://www.bilibili.com/video/BV1ce411u7qP/?spm_id_from=333.337.search-card.all.click&vd_source=79043f2a8efe4672df69e4818fe876b8
+
+https://www.bilibili.com/video/BV1pE41197Qj/?spm_id_from=333.788.recommend_more_video.-1&vd_source=79043f2a8efe4672df69e4818fe876b8
+
+然后在自己去找一些模板题来看看
+
+如果能氪金，可以看看这个：
+https://www.acwing.com/video/664/
+（这个是要acwing上的蓝桥杯AB组的课）
+
+没有往深里学

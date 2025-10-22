@@ -1,0 +1,11 @@
+这个必须完全掌握，多看几个视频和题解，从不同角度完全理解，因为这个是后面很多的基础
+
+闫式dp法简单了解一下就行，这个只是个思维框架，不是解题方法：
+https://www.bilibili.com/video/BV1X741127ZM/?spm_id_from=333.337.search-card.all.click&vd_source=79043f2a8efe4672df69e4818fe876b8
+
+自己去看acwing上的视频，题解，b站和csdn吧，重点看这个：
+https://www.acwing.com/video/944/
+
+最后问问自己几个问题：
+1.推导会了吗？怎么推导而来？
+2.如何压缩为一维？为什么后面求递推式时是从后往前？不这样会干嘛？

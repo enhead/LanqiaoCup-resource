@@ -1,0 +1,7 @@
+建议先大概看看（不用很理解）：
+https://leetcode.cn/problems/edit-distance/solution/bian-ji-ju-chi-by-leetcode-solution/
+
+然后在看acwing的视频
+
+想了解过程看：
+https://www.bilibili.com/video/BV15h411Z7Qd/?spm_id_from=333.337.search-card.all.click&vd_source=79043f2a8efe4672df69e4818fe876b8

@@ -1,0 +1,12 @@
+题：
+https://www.acwing.com/problem/content/860/
+
+先看csdn，学习一下基础概念：
+https://blog.csdn.net/luoshixian099/article/details/51908175
+
+但是后面的代码可以不看，与这题有点出路
+
+这我感觉我视频有点看不懂，唉，因人而异吧，最后是靠模拟这个代码懂的
+
+可以直接看我的题解或是看这个：
+https://www.acwing.com/solution/content/1825/

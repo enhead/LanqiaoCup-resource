@@ -1,0 +1,20 @@
+    题在
+AcWing 849. Dijkstra求最短路 I
+
+
+详细图解（帮助理解）：
+https://blog.csdn.net/PRML_MAN/article/details/114477814?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167601704616782425141683%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167601704616782425141683&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-114477814-null-null.142^v73^control_1,201^v4^add_ask,239^v1^control&utm_term=Dijkstra%E7%AE%97%E6%B3%95&spm=1018.2226.3001.4187
+
+重点：
+https://blog.csdn.net/wmy0217_/article/details/105438163?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167601500716782425156583%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167601500716782425156583&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-105438163-null-null.142^v73^control_1,201^v4^add_ask,239^v1^control&utm_term=%E6%9C%80%E7%9F%AD%E8%B7%AF&spm=1018.2226.3001.4187
+
+优化后的题：
+https://www.acwing.com/problem/content/852/
+
+需要学习pair：
+https://blog.csdn.net/sevenjoin/article/details/81937695
+
+优先队列（堆）：
+https://lichuachua.blog.csdn.net/article/details/100537452
+
+邻接表看代码就行
